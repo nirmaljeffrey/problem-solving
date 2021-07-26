@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 class Program {
-    // O( N * N ) time | O (1) Space
+    // O( N * N ) time | O (N) Space
     public static List<Integer[]> threeNumberSum(int[] array, int targetSum) {
         // Write your code here.
         Arrays.sort(array);
