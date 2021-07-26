@@ -1,4 +1,4 @@
-package dev.nirmaljeffrey.problemsolving.algoexpert;
+package dev.nirmaljeffrey.problemsolving.algoexpert.easy;
 
 import java.util.List;
 
