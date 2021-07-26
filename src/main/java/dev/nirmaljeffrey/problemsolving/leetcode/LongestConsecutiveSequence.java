@@ -1,4 +1,4 @@
-package dev.nirmaljeffrey.problemsolving;
+package dev.nirmaljeffrey.problemsolving.leetcode;
 
 import java.util.HashSet;
 
