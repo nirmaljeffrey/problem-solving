@@ -1,6 +1,6 @@
 package dev.nirmaljeffrey.problemsolving.algoexpert.easy;
 
-class Program1 {
+class SortedSquaredArray {
      // O (N) time | O(N) space
     public static int[] sortedSquaredArray(int[] array) {
         // Write your code here.

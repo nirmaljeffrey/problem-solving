@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-class Program {
+class ThreeSum {
     // O( N * N ) time | O (N) Space
     public static List<Integer[]> threeNumberSum(int[] array, int targetSum) {
         // Write your code here.

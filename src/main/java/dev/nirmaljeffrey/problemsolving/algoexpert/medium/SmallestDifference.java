@@ -2,7 +2,7 @@ package dev.nirmaljeffrey.problemsolving.algoexpert.medium;
 
 import java.util.Arrays;
 
-class Program1 {
+class SmallestDifference {
     // O(N log N) + O (M log M) | O (1) space where N is length of first array, M is length of second array
     public static int[] smallestDifference(int[] arrayOne, int[] arrayTwo) {
         // Write your code here.
