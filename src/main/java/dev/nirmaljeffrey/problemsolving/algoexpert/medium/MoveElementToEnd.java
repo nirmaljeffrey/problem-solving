@@ -3,6 +3,7 @@ package dev.nirmaljeffrey.problemsolving.algoexpert.medium;
 import java.util.List;
 
 public class MoveElementToEnd {
+    // O (N) time, O(1) space
     public static List<Integer> moveElementToEnd(List<Integer> array, int toMove) {
         // Write your code here.
         int leftIndex = 0;
