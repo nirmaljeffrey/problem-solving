@@ -22,3 +22,19 @@
 | 6 | [Node Depths](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/easy/NodeDepths.java) | 🟢 | Binary Tree| |
 | 7 | [Find Closest Value In Bst](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/easy/FindClosestValueInBst.java) | 🟢 | Binary Search Tree| |
 | 8 | [Branch Sums](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/easy/BranchSums.java) | 🟢 | Binary Tree| |
+
+
+
+## Medium Questions
+
+|S.No| Question                                                                          | Difficulty | Category             | Approach                 |
+|----| --------------------------------------------------------------------------------- | ---------- | -------------------- | ------------------------ |
+| 1 | [Three Sum](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/medium/ThreeSum.java)|🔵 | Arrays| |
+| 2 | [Spiral Traverse](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/medium/SpiralTraverse.java)|🔵  | Arrays| |
+| 3 | [Smallest Difference](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/medium/SmallestDifference.java)|🔵 | Arrays| |
+| 4 | [Move Element To End](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/medium/MoveElementToEnd.java)| 🔵  | Arrays| |
+| 5 | [Monotonic Array](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/medium/MonotonicArray.java)|🔵 | Arrays| |
+| 6 | [Merge Overlapping Intervals](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/medium/MergeOverlappingIntervals.java)|🔵 | Arrays| |
+| 7 | [Longest Peak](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/medium/LongestPeak.java)|🔵  | Arrays| |
+| 8 | [First Duplicate Value](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/medium/FirstDuplicateValue.java)|🔵 | Arrays| |
+| 9 | [ArrayOfProducts](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/medium/ArrayOfProducts.java)|🔵 | Arrays| |
