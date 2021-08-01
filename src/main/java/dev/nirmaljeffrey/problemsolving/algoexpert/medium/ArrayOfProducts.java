@@ -1,7 +1,5 @@
 package dev.nirmaljeffrey.problemsolving.algoexpert.medium;
 
-import java.util.Arrays;
-
 public class ArrayOfProducts {
     // O(N) time | O(N) space
     public static int[] arrayOfProducts(int[] array) {
@@ -23,8 +21,8 @@ public class ArrayOfProducts {
         return outputArray;
     }
 
-    public static void main(String[] args) {
-        int[] array = {5, 1, 4, 2};
-        System.out.println(Arrays.toString(arrayOfProducts(array)));
-    }
+//    public static void main(String[] args) {
+//        int[] array = {5, 1, 4, 2};
+//        System.out.println(Arrays.toString(arrayOfProducts(array)));
+//    }
 }
