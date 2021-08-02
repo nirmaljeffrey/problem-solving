@@ -2,7 +2,7 @@
 
 
 
-## Algoexpert (17 problems solved)
+## Algoexpert (18 problems solved)
 #### Difficulty Levels
 
 🟢  Easy  
@@ -22,6 +22,8 @@
 | 6 | [Node Depths](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/easy/NodeDepths.java) | 🟢 | Binary Tree| |
 | 7 | [Find Closest Value In Bst](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/easy/FindClosestValueInBst.java) | 🟢 | Binary Search Tree| |
 | 8 | [Branch Sums](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/easy/BranchSums.java) | 🟢 | Binary Tree| |
+| 9 | [Minimum Waiting Time](src/main/java/dev/nirmaljeffrey/problemsolving/algoexpert/easy/MinimumWaitingTime.java) | 🟢 | Arrays| PrefixSum|
+
 
 
 
