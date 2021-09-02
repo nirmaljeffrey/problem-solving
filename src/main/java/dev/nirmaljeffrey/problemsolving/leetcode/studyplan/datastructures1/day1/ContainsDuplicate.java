@@ -1,4 +1,4 @@
-package dev.nirmaljeffrey.problemsolving.leetcode.studyplan.datastructures1;
+package dev.nirmaljeffrey.problemsolving.leetcode.studyplan.datastructures1.day1;
 
 import java.util.HashSet;
 import java.util.Set;
